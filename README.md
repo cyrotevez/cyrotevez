@@ -146,44 +146,9 @@ An AI-powered agricultural platform helping farmers:
 - Access agricultural knowledge
 - Make data-driven farming decisions
 
-### Technology Stack
 
-```txt
-Frontend:
-React Native
-Expo
-TypeScript
 
-Backend:
-Node.js
-Laravel
-Express.js
 
-Database:
-PostgreSQL
-Supabase
-
-AI:
-Machine Learning
-AI APIs
-
-Deployment:
-Docker
-Linux
-GitHub
-```
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyrotevez&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrotevez&layout=compact&theme=tokyonight" />
-
-</div>
 
 ---
 
@@ -207,13 +172,7 @@ GitHub
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cyrotevez&theme=tokyonight&row=1&column=7" />
-
-</div>
 
 ---
 
