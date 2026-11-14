@@ -1,213 +1,209 @@
-# 👋 Hi, I'm Cyrus
-
 <div align="center">
 
-### 🚀 Full Stack Software Developer | Mobile App Developer | AI Solutions Builder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Cyrus&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Solutions%20Builder&descAlignY=60&descSize=20" alt="header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Mobile+Application+Developer;Backend+Engineer;AI+Powered+Solutions+Builder;Building+Technology+That+Solves+Real+Problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Mobile+App+Developer+(Flutter+%26+React+Native);Backend+Engineer;AI-Powered+Solutions+Builder;Building+technology+that+solves+real+problems" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=cyrotevez&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/cyrotevez?style=flat-square&logo=github&color=181717" alt="Followers" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-2DD4BF?style=flat-square" alt="Open to collaboration" />
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-I'm a passionate Full Stack Software Developer focused on building modern web applications, mobile apps, APIs, databases, and AI-powered solutions.
+I'm a Full Stack Software Developer who builds modern web applications, cross-platform mobile apps, robust APIs and AI-powered solutions. I care about clean architecture, usable interfaces, and software that makes a real difference for real people.
 
-- 💻 Full Stack Development
-- 📱 Mobile Application Development
-- 🌐 Web Application Development
-- 🗄️ Database Design & Management
-- 🤖 AI Integration & Automation
-- ☁️ Cloud & DevOps
-- 🚀 Building scalable and impactful software
+| | |
+|---|---|
+| 🌐 **Web** | Responsive, scalable web apps with React, Next.js, Laravel and Django |
+| 📱 **Mobile** | Cross-platform apps with Flutter, React Native and native Android (Kotlin) |
+| 🗄️ **Data** | Relational and NoSQL database design, optimisation and management |
+| 🤖 **AI** | TensorFlow models, AI API integration and workflow automation |
+| ☁️ **DevOps** | Docker, CI/CD pipelines and cloud deployment |
 
 ---
 
-## 🛠 Languages & Technologies
+## 🛠 Tech Stack
 
-<div align="center">
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,java,py,php,bash" alt="Languages" />
+</p>
 
-### Programming Languages
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,vite,jquery" alt="Frontend" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,php,python,java,kotlin" />
+### Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,flask,fastapi,graphql,postman" alt="Backend" />
+</p>
 
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django" />
-
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=react,flutter,kotlin" />
+### Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,androidstudio" alt="Mobile" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
 
 ### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase,redis,prisma" alt="Databases" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" />
+### AI & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+</p>
 
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+### Cloud, DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,apache,aws,vercel,netlify" alt="DevOps" />
+</p>
 
 ### Design & Productivity
-
-<img src="https://skillicons.dev/icons?i=figma,vscode" />
-
-</div>
-
----
-
-## 🔧 Additional Technologies & Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Apache-E34F26?style=for-the-badge&logo=apache&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,npm" alt="Tools" />
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
 </p>
 
 ---
 
 ## 💼 Core Competencies
 
-### Frontend
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-- JavaScript (ES6+)
-- TypeScript
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### Backend
-- Node.js
-- Express.js
-- Laravel
-- Django
-- REST APIs
-- Authentication & Authorization
+**🎨 Frontend**
+- React.js & Next.js
+- HTML5, CSS3, Sass
+- Tailwind CSS & Bootstrap
+- JavaScript (ES6+) & TypeScript
 
-### Mobile Development
-- React Native
-- Expo
-- Android Development
-- Kotlin
+</td>
+<td valign="top" width="33%">
 
-### Databases
-- PostgreSQL
-- MySQL
+**⚙️ Backend**
+- Node.js & Express.js
+- Laravel (PHP)
+- Django & Flask (Python)
+- REST APIs, Authentication & Authorization
+
+</td>
+<td valign="top" width="33%">
+
+**📱 Mobile**
+- Flutter & Dart
+- React Native & Expo
+- Android (Kotlin)
+- Firebase integration
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🗄️ Databases**
+- PostgreSQL & MySQL
 - MongoDB
-- Firebase
-- Supabase
 - SQLite
-- Oracle Database
-- SQL Server
+- Firebase & Supabase
+- Oracle & SQL Server
 
-### DevOps & Deployment
+</td>
+<td valign="top">
+
+**🤖 AI & Automation**
+- TensorFlow
+- AI API integration
+- Workflow automation
+- Data processing
+
+</td>
+<td valign="top">
+
+**☁️ DevOps**
 - Docker
 - Linux
-- Git
-- GitHub
-- CI/CD
-- Cloud Deployment
+- Git & GitHub
+- CI/CD (GitHub Actions)
+- Cloud deployment
 
-### AI & Automation
-- TensorFlow
-- AI API Integration
-- Workflow Automation
-- Data Processing
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Project
 
-# 🌾 AgriGuard AI
+<div align="center">
 
-An AI-powered agricultural platform helping farmers:
+### 🌾 AgriGuard AI
 
-- Detect crop diseases
-- Receive agronomic recommendations
-- Improve crop yields
-- Access agricultural knowledge
-- Make data-driven farming decisions
+*An AI-powered agricultural platform that puts crop expertise in every farmer's pocket.*
 
+</div>
 
+| Feature | Description |
+|---|---|
+| 🔬 **Disease Detection** | Identify crop diseases from a photo using machine learning |
+| 🌱 **Recommendations** | Receive practical agronomic advice tailored to the diagnosis |
+| 📈 **Better Yields** | Act early to protect harvests and improve productivity |
+| 📚 **Knowledge Base** | Access agricultural guidance anytime, from the field |
+| 📊 **Data-Driven Decisions** | Make informed farming choices backed by data |
 
-
+[![View Project](https://img.shields.io/badge/View%20Project-AgriGuard%20AI-2DD4BF?style=for-the-badge&logo=github)](https://github.com/cyrotevez)
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrotevez&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cyrotevez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrotevez&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrotevez&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyrotevez&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🌍 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyrotevez&theme=tokyo-night" />
+<a href="https://github.com/cyrotevez"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/cyrotevez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:cyrotevez73@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
-
-
----
-
-## 🌍 Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/cyrotevez">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+> *"Technology is most powerful when it solves real-world problems and creates opportunities for people."*
 
-<a href="https://linkedin.com/in/cyrotevez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+**⭐ Thanks for visiting my profile!**
 
-<a href="mailto:cyrotevez73@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
-</a>
-
-</div>
-
----
-
-## 💭 Developer Philosophy
-
-> "Technology is most powerful when it solves real-world problems and creates opportunities for people."
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=cyrotevez&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-### ⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
 
 </div>
