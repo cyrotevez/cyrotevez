@@ -32,7 +32,7 @@ I'm a Full Stack Software Developer who builds modern web applications, cross-pl
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,java,py,php,bash" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,java,py,php,c,cpp,bash" alt="Languages" />
 </p>
 
 ### Frontend
@@ -145,7 +145,7 @@ I'm a Full Stack Software Developer who builds modern web applications, cross-pl
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -164,6 +164,42 @@ I'm a Full Stack Software Developer who builds modern web applications, cross-pl
 | 📊 **Data-Driven Decisions** | Make informed farming choices backed by data |
 
 [![View Project](https://img.shields.io/badge/View%20Project-AgriGuard%20AI-2DD4BF?style=for-the-badge&logo=github)](https://github.com/cyrotevez)
+
+<br/>
+
+<div align="center">
+
+### 🚗 AutoAssist
+
+*AI-enabled roadside assistance that connects stranded drivers with nearby mechanics and spare-parts suppliers.*
+
+</div>
+
+**The problem:** When a vehicle breaks down on the road, drivers are often stranded and stressed. They don't know which mechanics are nearby or trustworthy, can't easily describe what is wrong, and struggle to find the right spare parts quickly. Mechanics and parts suppliers, on the other hand, have no simple way to reach drivers who urgently need them.
+
+**The solution:** AutoAssist is a mobile platform with three account types, **Driver**, **Mechanic** and **Parts Supplier**, each with its own tailored experience. A driver can request help in a few taps, see nearby mechanics on a map, chat with them in real time, get preliminary guidance from an AI vehicle assistant, and search for spare parts, all in one app.
+
+| Feature | Description |
+|---|---|
+| 🆘 **Emergency Requests** | Send a breakdown request with your GPS location in seconds |
+| 🗺️ **Nearby Mechanics** | Find mechanics on an OpenStreetMap-powered map, with profiles and ratings |
+| 💬 **Live Chat** | Real-time driver-to-mechanic communication over WebSockets |
+| 🤖 **AI Vehicle Assistant** | Preliminary troubleshooting guidance powered by Groq AI |
+| 🔩 **Spare Parts Marketplace** | Suppliers list parts and drivers search for them |
+| 🔐 **Privacy by Design** | Mechanics only see a driver's approximate area until they accept the job |
+| 🌗 **Dark / Light Mode** | Comfortable to use day or night |
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+
+[![View Project](https://img.shields.io/badge/View%20Project-AutoAssist-2DD4BF?style=for-the-badge&logo=github)](https://github.com/cyrotevez)
 
 ---
 
